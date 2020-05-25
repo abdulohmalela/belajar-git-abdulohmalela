@@ -165,8 +165,4 @@ header ul li:hover {
     transform: translateY(-15px);
 }
 
-@media screen and (max-width: 600px) {
-    .portfolio-body .card {
-        justify-content: space-between;
-    }
-}
+@media screen and (max-width: 600px) {}
